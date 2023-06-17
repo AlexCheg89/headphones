@@ -1,0 +1,7 @@
+.hero {
+  &__img {
+    border: 1px solid var(--grey-color);
+    max-height: 390px;
+    width: 100%;
+  }
+}
