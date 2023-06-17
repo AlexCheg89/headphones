@@ -1,2 +1,2 @@
 import './vendor/focus-visible.js';
-import '../../node-module/'
+import '../../node_modules/bootstrap/dist/js/bootstrap.js';
